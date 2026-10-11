@@ -1,0 +1,15 @@
+1. How many visits are there, and are there duplicate patient IDs?
+2. What date range does the data cover?
+3. What are the average, minimum and maximum wait times?
+4. What is the average satisfaction score, and how many scores are missing?
+5. What percentage of patients were admitted?
+6. What is the gender split?
+7. How do visits break down by race?
+8. Which departments receive the most referrals?
+9. What share of patients were referred vs. walk-in?
+10. What percentage of patients were seen within 30 minutes?
+11. What are the average wait time and satisfaction by department?
+12. How does satisfaction change as wait time increases?
+13. Which hours of the day are busiest?
+14. What is the admission rate by age group?
+15. Which department is referred to most within each age group?
