@@ -2,7 +2,7 @@
 
 > An end-to-end **healthcare data analytics project**: MySQL for cleaning and business questions, Power BI for a 4-page interactive dashboard, and a plain-English set of recommendations for reducing **emergency room wait times**.
 
-![Hospital ER Analytics Power BI dashboard](assets/Dashboard_img.PNG)
+![Hospital ER Analytics Power BI dashboard](Dashboard_img.PNG)
 
 **Tools:** MySQL · Power BI (DAX) · Excel · Jupyter/Python (cleaning)
 **Topics:** hospital analytics · ER wait time analysis · patient flow · healthcare KPIs · SQL business questions · Power BI dashboard
@@ -56,12 +56,12 @@ Emergency rooms are judged on how fast patients are seen. A hospital manager wan
 | **Wait Time & Operations** | Long waits, wait vs target, wait by department, arrival-hour heatmap |
 | **Key Takeaways** | Findings and recommendations for non-technical stakeholders |
 
-![Patient demographics page](assets/Patient_demographic_dashboard.PNG)
-![Wait time and operations page](assets/Wait_time_and_operations_dashboard.PNG)
-![Key takeaways page](assets/Key_takeaways.PNG)
+![Patient demographics page](Patient_demographic_dashboard.PNG)
+![Wait time and operations page](Wait_time_and_operations_dashboard.PNG)
+![Key takeaways page](Key_takeaways.PNG)
 
 ## SQL analysis
-Database setup is in [`sql/Setup_sql_code.sql`](sql/Setup_sql_code.sql) and the business questions are in [`sql/business_solutions.sql`](sql/business_solutions.sql).
+Database setup is in [`sql/Setup_sql_code.sql`](Setup_sql_code.sql) and the business questions are in [`sql/business_solutions.sql`](business%20solutions.sql).
 
 Techniques used: `COUNT`, `AVG`, `CASE WHEN` bucketing, `GROUP BY`, subqueries, window functions (`SUM() OVER`), `DATEDIFF`, NULL handling.
 
